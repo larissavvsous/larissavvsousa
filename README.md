@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff839b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+A+LARISSA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff839b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Larissa+Vitória!;Hello,+my+name+is+Larissa+Vitória!)](https://git.io/typing-svg)
 
 - Atualmente estou estudando Ciência de Dados na UFC
 - Experiência em  R e Python
@@ -26,3 +26,6 @@
    <a href="https://criarmeulink.com.br/u/1680972493" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/invites/contact/?i=16xa46dufrzgq&utm_content=1me4v9t" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=larissavvsous&bg_color=282a36&color=8be9fd&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

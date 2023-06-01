@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff839b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff839b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Larissa+Vitória!;Hello,+my+name+is+Larissa+Vitória!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff839b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Larissa+Vitória!;Hello,+my+name+is+Larissa+Sousa!)](https://git.io/typing-svg)
 
 - Atualmente estou estudando Ciência de Dados na UFC
 - Experiência em  R e Python
